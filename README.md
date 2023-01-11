@@ -23,18 +23,6 @@ OBBDetection is an oriented object detection toolbox modified from [MMdetection 
 
 We develop [BboxToolkit](https://github.com/jbwang1997/BboxToolkit) to support oriented bounding boxes operations, which is heavily depended on by this toolbox.
 
-## License
-
-This project is released under the [Apache 2.0 license](LICENSE).
-
-## Update
-
-- (**2021-12-14**) Thanks [liuyanyi](https://github.com/liuyanyi) for reimplementing [S2ANet](configs/obb/s2anet) in OBBDetection.
-- (**2021-11-29**) Discard mmcv-0.6.2 and support mmcv-full.
-- (**2021-09-18**) Implement [Double Head OBB](configs/obb/double_heads_obb) in the OBBDetection.
-- (**2021-09-01**) Implement [FCOS OBB](configs/obb/fcos_obb) in the OBBDetection.
-- (**2021-08-21**) Reimplement the [PolyIoULoss](configs/obb/poly_iou_loss).
-
 ## Benchmark and model zoo
 
 Results and models are available in the [model zoo](docs/model_zoo.md).
