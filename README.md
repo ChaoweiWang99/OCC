@@ -36,7 +36,7 @@ Supported backbones:
 - [x] Res2Net
 
 Supported oriented detection methods:
-- [x] [OCC](configs/obb/occ)
+- [x] [OCC](configs/obb/occ)（we will add complete codes in the future）
 - [x] [S2ANet (TGRS)](configs/obb/s2anet)
 - [x] [Oriented R-CNN (ICCV'2021)](configs/obb/oriented_rcnn)
 - [x] [Poly IoU Loss](configs/obb/poly_iou_loss)
